@@ -1,2 +1,2 @@
 # github-session1
-1st session of getting started week!YAYY :)
+1st session of getting started week! YAYY :)
